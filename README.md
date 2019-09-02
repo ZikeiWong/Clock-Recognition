@@ -1,5 +1,5 @@
 # Clock-Recognition
-Analog clock and watch reader 
+The main goal for this project was to develop a model for analog clock identification, and to implement it with a program that would be able to receive an image of a clock, and return the time displayed after its analysis. I strived to write a program that would reach an acceptable success rate and would work on a broad range of images.
 
 ## Approach and Method
 The approach taken in this project was to isolate the actual clock from the rest of the image, identify the clock hands, and calculate the time according to their angles.
