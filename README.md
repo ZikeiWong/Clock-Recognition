@@ -16,3 +16,5 @@ IV.	Calculate line angles
 V.	Filter out irrelevant lines
 
 VI.	Compute the time
+
+![](https://github.com/ZikeiWong/Clock-Recognition/blob/master/Process%20Graph.png)
