@@ -1,7 +1,7 @@
 # Clock-Recognition
 Analog clock and watch reader 
 
-# Approach and Method
+## Approach and Method
 The approach taken in this project was to isolate the actual clock from the rest of the image, identify the clock hands, and calculate the time according to their angles.
 The method for doing this consists of six steps:
 I.	Isolate the clock from the rest of the image
